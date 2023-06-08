@@ -1,0 +1,15 @@
+{
+    "name": "ecf/actvite5",
+    "autoload": {
+        "psr-4": {
+            "Ecf\\Actvite5\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Jonathan COURTOIS",
+            "email": "Jonathan.courtois.pro@gmail.com"
+        }
+    ],
+    "require": {}
+}
